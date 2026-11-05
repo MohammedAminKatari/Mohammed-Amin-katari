@@ -64,6 +64,15 @@ I'm a developer passionate about building practical applications, solving proble
 * Full-Stack application development
 * Backend architecture
 * Cybersecurity fundamentals
+  ---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
 
 ### 🎯 Goals
 
