@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Amin 👋
 
-### Aspiring Full-Stack Developer | JavaScript | React | Node.js
+### Aspiring Full-Stack Developer | React | Node.js | Express | MySQL
 
 I'm a developer passionate about building practical applications, solving problems through technology, and continuously improving my programming skills.
 
